@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "paKNgy2OcXx29jImHs8+7K3sWvHC5WEN7W3zaFfnxkudRS1SwO/AZs8r94hqlHm9c6+37i0pC4gIvHgiSReQzQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\BaiTapLonANMkhoacustom\\BaiTapLonANM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
